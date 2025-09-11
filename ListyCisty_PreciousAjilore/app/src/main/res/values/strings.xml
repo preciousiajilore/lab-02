@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListyCisty_PreciousAjilore</string>
+    <string name="add_city">Add City</string>
+    <string name="delete_city">Delete City</string>
+    <string name="listy_city">Listy City</string>
+    <string name="confirm">Confirm</string>
+</resources>
